@@ -29,8 +29,8 @@ ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议�
 * [android_swiftp](https://github.com/mstian06/android_swiftp)</p>
 Android swiftp server实例。
 
-* [TabExample](https://github.com/mstian06/TabExample)</p>
-通用底部Tab栏的三种使用方式。
+* [demo](https://github.com/mstian06/demo)</p>
+demo-android，demo-java。
 
 
 ### Android网络库
@@ -58,10 +58,6 @@ Android开源项目分类汇总，from trinea。
 
 * [android-dev-com](https://github.com/mstian06/android-dev-com)</p>
 国外Android 开发者信息
-
-## Java
-* [Java-base](https://github.com/mstian06/Java-base)</p>
-Java基础知识
 
 ## 其他
 * [ResumeSample](https://github.com/mstian06/ResumeSample)</p>
